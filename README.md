@@ -1,4 +1,8 @@
-# MIADatasets
+# Bechmarking Datasets for Membership Inference Attacks
 
 
-The repository includes datasets used for benchmarking membership inference attacks. The Purchase100 and Texas100 datasets are same as https://github.com/privacytrustlab/datasets. The Location30 dataset is modified to avoid an error on reading the datasets.
+The repository includes:
+- Purchase100 (https://github.com/privacytrustlab/datasets)
+- Texas100 (https://github.com/privacytrustlab/datasets)
+- Location30 (https://github.com/privacytrustlab/datasets)dataset is modified to avoid an error on reading the datasets
+- TEXAS100X  (https://github.com/bargavj/EvaluatingDPML) which includes sensitive attributes
